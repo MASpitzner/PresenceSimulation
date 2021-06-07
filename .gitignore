@@ -1,0 +1,9 @@
+# Project exclude paths
+/target/
+/src/test/
+/simout*
+scp.sh
+dependency-reduced-pom.xml
+*iterator*
+/.idea/
+PresenceSimulation.iml
