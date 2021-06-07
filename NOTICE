@@ -1,0 +1,42 @@
+=============================================================================
+= NOTICE file corresponding to section 4d of the Apache License Version 2.0 =
+=============================================================================
+This product includes software developed by
+Joda.org (https://www.joda.org/).
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software developed for Orekit by
+CS Systèmes d'Information (http://www.c-s.fr/)
+Copyright 2010-2012 CS Systèmes d'Information
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software developed at
+* Skymind Inc  (Apache 2.0). Copyright (C) 2015-2018 Skymind Inc .
+
+This product includes software developed at
+* Konduit KK  (Apache 2.0). Copyright (C) 2020.
+
+
+This product includes software from the Tensorflow Project  (Apache 2.0).
+* Copyright (C) 2015-2018 Tensorflow Authors.
+
+# https://github.com/onnx/onnx
+
+This product includes software from the Onnx Project project (Apache 2.0).
+* Copyright (C)  2020 Onnx Contributors (https://github.com/onnx/onnx)
+
+This product includes software developed at
+* Copyright 2008 Google Inc.  (Apache 2.0)
+
+This product includes software developed by Weishuai Yang at Binghamton University.
+
+This product includes software developed at
+* Copyright (C) 2004-2019 QOS.ch.  (MIT)
+
+
+This project contains Data that is distributed under Open Data Commons Open Database License (ODbL).
+It is originally distributed by Copyright (C) 2012-2021 OpenWeather(R).

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="471px" height="294px" viewBox="-0.5 -0.5 471 294"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-06-06T21:02:48.590Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36&quot; version=&quot;14.7.6&quot; etag=&quot;S9X3ldM_KDorgfqd2oTk&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;rINH5eCRX9TDe4VlSDCj&quot;&gt;7Vhdj6IwFP01PO5GCn7MoyKzMxkYibLOo+lChWYKJaV+za/fi1QQdaLu6psJibent5Xec07boBlWsv4lcBa7PCRMQ61wrRlDDSHdREgrnla4KZEfpqGQSNBQZdXAhH4RBbYUuqAhyRuJknMmadYEA56mJJANDAvBV820OWfNf81wRI6ASYDZMfpBQxmXaA91a/yF0Cje/bPeeSp7ErxLVivJYxzy1R5k2JphCc5lGSVri7Cieru6lOOev+mtXkyQVF4yQNV9idlCrc1OFwkgFsN5Dr8OjzzBl1Bv4W8yKHr52nKzq0W+ognDKbQGc57KierRoY0ZjVKIA3gZIgBYEiEplLGvOiTPAA1iykIHb/iieOVc4uBz1xrEXNAvmBYzNSd0C6kUgTqNjEkxEuAWoILkkOPt6qAfQC5eNxIdnEsFBJwxnOX0T7WMBIuIpgMuJU9UkqoaLIesv628XvEJTiA8IVJsIEUNQF2lCWUC3egoTaxqSaGuwuI9ObUVhpWKo2rummgIFNeneTeOeNcQrKqltQfuyHqbeePR9HVojzUEU7VGnv3+0h/UaHt4pAOohNzyI/gnsTjjQPgw5aUwKGMH0E4bjMzlt8rIMxzQNHK2OUOzRsaqGgXEYeycbU0U0zAkacEql1jiksKCr4zTVG7L1R7AAwW0Wj/b22VY0NbrNjxFupAWT2EtmG7ZJKCPFSk0chn16DT1imrQ7UVEI/P/iTbPGdxeFn4o9uiHv2/qb3Tgb9M89rdxL3+3z/jbntrv/swdDW2ntLj75paBVUWu46nImfiuCu1p33nY/4wyzGvtf1IHt7B/55z9PwhcSYgYQr0e5/xd9gHTbO4DqHdiHzDvtA90rz7nZx9233+xxzO37z0O/Es10Lna8acYv4Xje+cc79MEFoaT7HHo39zs+uGlvo2OzW7e69B/OmN2/9W1J37f9fYP/t/+RB3tXhVZdeg/V2FxC6gaj3vABWLpXbsrnJTGP+wK0Ky/IWz79j7FGPZf&lt;/diagram&gt;&lt;/mxfile&gt;"
+     style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-104-111-262-24-0">
+            <rect x="104" y="111" width="262" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-54-191-362-24-0">
+            <rect x="54" y="191" width="362" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-69-31-332-24-0">
+            <rect x="69" y="31" width="332" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-271-462-24-0">
+            <rect x="4" y="271" width="462" height="24"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 100 106 L 100 80 L 370 80 L 370 106" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="all"/>
+        <path d="M 100 106 L 100 130 L 370 130 L 370 106" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 100 106 L 370 106" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="234.5" y="97.5">Enum Class LogProviderTypes</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-104-111-262-24-0)"
+           font-size="12px">
+            <text x="105.5" y="123.5">+ [MOCK_PROVIDER, OPENHAB_PROVIDER]</text>
+        </g>
+        <path d="M 50 186 L 50 160 L 420 160 L 420 186" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 50 186 L 50 210 L 420 210 L 420 186" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 50 186 L 420 186" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="234.5" y="177.5">Enum Class EventModelTypes</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-54-191-362-24-0)"
+           font-size="12px">
+            <text x="55.5" y="203.5">+ [MOCK_EVENT_MODEL, MKM, CMKM, MLPM, LSTMM, EVAL]</text>
+        </g>
+        <path d="M 65 26 L 65 0 L 405 0 L 405 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 65 26 L 65 50 L 405 50 L 405 26" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 65 26 L 405 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="234.5" y="17.5">Enum Class WeatherDataProviderTypes</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-69-31-332-24-0)"
+           font-size="12px">
+            <text x="70.5" y="43.5">+ [MOCK_PROVIDER, OPEN_WEATHER_MAP_PROVIDER]</text>
+        </g>
+        <path d="M 0 266 L 0 240 L 470 240 L 470 266" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 266 L 0 290 L 470 290 L 470 266" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 266 L 470 266" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="234.5" y="257.5">Enum Class TimestampModelTypes</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-271-462-24-0)"
+           font-size="12px">
+            <text x="5.5" y="283.5">+ [MOCK_TIMESTAMP_MODEL, UTSM, PTSM, CPTSM, TFTSM, LSTMTSM, EVAL]</text>
+        </g>
+    </g>
+</svg>

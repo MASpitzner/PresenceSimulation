@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="691px" height="852px" viewBox="-0.5 -0.5 691 852"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-06-07T16:19:24.495Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36&quot; version=&quot;14.7.6&quot; etag=&quot;4pF5inBOcXdbPmunaCRx&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;0DLyqgC5bUi9BUxUXYT3&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+     style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-4-231-282-26-0">
+            <rect x="4" y="231" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-257-282-26-0">
+            <rect x="4" y="257" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-283-282-26-0">
+            <rect x="4" y="283" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-309-282-24-0">
+            <rect x="4" y="309" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-333-282-26-0">
+            <rect x="4" y="333" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-359-282-24-0">
+            <rect x="4" y="359" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-383-282-26-0">
+            <rect x="4" y="383" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-409-282-26-0">
+            <rect x="4" y="409" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-435-282-26-0">
+            <rect x="4" y="435" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-461-282-24-0">
+            <rect x="4" y="461" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-485-282-26-0">
+            <rect x="4" y="485" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-511-282-24-0">
+            <rect x="4" y="511" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-543-282-42-0">
+            <rect x="4" y="543" width="282" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-31-282-26-0">
+            <rect x="404" y="31" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-57-282-26-0">
+            <rect x="404" y="57" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-83-282-26-0">
+            <rect x="404" y="83" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-109-282-24-0">
+            <rect x="404" y="109" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-133-282-26-0">
+            <rect x="404" y="133" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-159-282-24-0">
+            <rect x="404" y="159" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-191-282-26-0">
+            <rect x="404" y="191" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-271-282-26-0">
+            <rect x="404" y="271" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-297-282-26-0">
+            <rect x="404" y="297" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-631-282-26-0">
+            <rect x="404" y="631" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-665-282-26-0">
+            <rect x="404" y="665" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-391-282-26-0">
+            <rect x="404" y="391" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-417-282-26-0">
+            <rect x="404" y="417" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-511-282-26-0">
+            <rect x="404" y="511" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-537-282-26-0">
+            <rect x="404" y="537" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-751-282-26-0">
+            <rect x="404" y="751" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-777-282-26-0">
+            <rect x="404" y="777" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-803-282-26-0">
+            <rect x="404" y="803" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-404-829-282-24-0">
+            <rect x="404" y="829" width="282" height="24"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 226 L 0 200 L 290 200 L 290 226" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="all"/>
+        <path d="M 0 226 L 0 580 L 290 580 L 290 226" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 226 L 290 226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="144.5" y="217.5">WeatherDataEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-231-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="243.5">+ city: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-257-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="269.5">+ lat: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-283-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="295.5">+lon: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-309-282-24-0)"
+           font-size="12px">
+            <text x="5.5" y="321.5">+ phisicalWeatherData: PhysicalWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-333-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="345.5">+ wind: Wind</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-359-282-24-0)"
+           font-size="12px">
+            <text x="5.5" y="371.5">+ rain: Rain</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-383-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="395.5">+ snow: Snow</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-409-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="421.5">+clouds: Clouds</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-435-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="447.5">+ basicWeatherData: List&lt;BasicWeatherData&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-461-282-24-0)"
+           font-size="12px">
+            <text x="5.5" y="473.5">+ dayTimeInMilliSec: Long</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-485-282-26-0)"
+           font-size="12px">
+            <text x="5.5" y="497.5">+ dayTimeIso: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-511-282-24-0)"
+           font-size="12px">
+            <text x="5.5" y="523.5">+ timeZone: Int</text>
+        </g>
+        <path d="M 0 534 L 290 534" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-543-282-42-0)"
+           font-size="12px">
+            <text x="5.5" y="555.5">+ transform(void): void </text>
+            <text x="5.5" y="569.5">+getJodaTimeFormat(void):String</text>
+        </g>
+        <path d="M 400 26 L 400 0 L 690 0 L 690 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 26 L 400 212 L 690 212 L 690 26" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 26 L 690 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="17.5">PhysicalWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-31-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="43.5">+ temp: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-57-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="69.5">+ tempMin: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-83-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="95.5">+ temp_Max: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-109-282-24-0)"
+           font-size="12px">
+            <text x="405.5" y="121.5">+ feels_like: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-133-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="145.5">+ pressure: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-159-282-24-0)"
+           font-size="12px">
+            <text x="405.5" y="171.5">+ humidity: Double</text>
+        </g>
+        <path d="M 400 182 L 690 182" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-191-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="203.5">+ transform(): void </text>
+        </g>
+        <path d="M 400 266 L 400 240 L 690 240 L 690 266" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 266 L 400 318 L 690 318 L 690 266" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 266 L 690 266" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="257.5">Wind</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-271-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="283.5">+ speed: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-297-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="309.5">+ deg: Int</text>
+        </g>
+        <path d="M 400 626 L 400 600 L 690 600 L 690 626" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 626 L 400 686 L 690 686 L 690 626" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 626 L 690 626" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="617.5">Clouds</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-631-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="643.5">+ all: Double</text>
+        </g>
+        <path d="M 400 656 L 690 656" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-665-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="677.5">+ transform(): void </text>
+        </g>
+        <path d="M 400 386 L 400 360 L 690 360 L 690 386" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 386 L 400 438 L 690 438 L 690 386" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 386 L 690 386" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="377.5">Rain</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-391-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="403.5">+ threeHours: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-417-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="429.5">+ oneHour: Double</text>
+        </g>
+        <path d="M 400 506 L 400 480 L 690 480 L 690 506" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 506 L 400 558 L 690 558 L 690 506" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 506 L 690 506" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="497.5">Snow</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-511-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="523.5">+ threeHours: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-537-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="549.5">+ oneHour: Double</text>
+        </g>
+        <path d="M 400 746 L 400 720 L 690 720 L 690 746" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 746 L 400 848 L 690 848 L 690 746" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 400 746 L 690 746" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="544.5" y="737.5">BasicWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-751-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="763.5">+ id: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-777-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="789.5">+ main: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-803-282-26-0)"
+           font-size="12px">
+            <text x="405.5" y="815.5">+ description: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-404-829-282-24-0)"
+           font-size="12px">
+            <text x="405.5" y="841.5">+ icon: String </text>
+        </g>
+        <path d="M 290 316 L 345 316 L 345 259.43 L 397.76 259.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.88 262.99 L 398.88 259.5 L 391.89 255.99" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 290 417 L 345 417 L 345 379.57 L 397.76 379.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.89 383.01 L 398.88 379.5 L 391.88 376.01" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 290 468 L 345 468 L 345 491 L 396.89 491" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.01 494.5 L 398.01 491 L 391.01 487.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 290 518 L 345 518 L 345 673 L 397.76 673" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.88 676.5 L 398.88 673 L 391.88 669.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 290 239 L 345 239 L 345 14 L 397.76 13.99" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.88 17.49 L 398.88 13.99 L 391.88 10.49" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 290 559 L 290 551 L 320 551 L 320 732 L 397.76 732.03" fill="none" stroke="#000000"
+              stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 391.88 735.53 L 398.88 732.03 L 391.88 728.53" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+    </g>
+</svg>

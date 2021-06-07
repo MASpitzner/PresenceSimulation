@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1071px" height="1004px" viewBox="-0.5 -0.5 1071 1004"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-06-07T16:22:16.581Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36&quot; version=&quot;14.7.6&quot; etag=&quot;2cQNA9VN3IOLWSPL7pYd&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;8xaIiY_knw3ZPmkKS5Bt&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+     style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-714-31-352-26-0">
+            <rect x="714" y="31" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-57-352-26-0">
+            <rect x="714" y="57" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-83-352-26-0">
+            <rect x="714" y="83" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-109-352-26-0">
+            <rect x="714" y="109" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-135-352-26-0">
+            <rect x="714" y="135" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-161-352-26-0">
+            <rect x="714" y="161" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-187-352-26-0">
+            <rect x="714" y="187" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-213-352-26-0">
+            <rect x="714" y="213" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-239-352-26-0">
+            <rect x="714" y="239" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-265-352-26-0">
+            <rect x="714" y="265" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-291-352-26-0">
+            <rect x="714" y="291" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-317-352-26-0">
+            <rect x="714" y="317" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-343-352-26-0">
+            <rect x="714" y="343" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-369-352-26-0">
+            <rect x="714" y="369" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-395-352-26-0">
+            <rect x="714" y="395" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-421-352-26-0">
+            <rect x="714" y="421" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-447-352-26-0">
+            <rect x="714" y="447" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-473-352-26-0">
+            <rect x="714" y="473" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-499-352-26-0">
+            <rect x="714" y="499" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-525-352-26-0">
+            <rect x="714" y="525" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-551-352-26-0">
+            <rect x="714" y="551" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-579-352-26-0">
+            <rect x="714" y="579" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-605-352-26-0">
+            <rect x="714" y="605" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-631-352-26-0">
+            <rect x="714" y="631" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-657-352-26-0">
+            <rect x="714" y="657" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-714-683-352-26-0">
+            <rect x="714" y="683" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-31-592-26-0">
+            <rect x="4" y="31" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-57-592-26-0">
+            <rect x="4" y="57" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-83-592-26-0">
+            <rect x="4" y="83" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-109-592-26-0">
+            <rect x="4" y="109" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-135-592-26-0">
+            <rect x="4" y="135" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-161-592-26-0">
+            <rect x="4" y="161" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-187-592-26-0">
+            <rect x="4" y="187" width="592" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-215-592-390-0">
+            <rect x="4" y="215" width="592" height="390"/>
+        </clipPath>
+        <clipPath id="mx-clip-799-816-182-124-0">
+            <rect x="799" y="816" width="182" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-751-282-26-0">
+            <rect x="284" y="751" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-777-282-26-0">
+            <rect x="284" y="777" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-803-282-24-0">
+            <rect x="284" y="803" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-835-282-26-0">
+            <rect x="284" y="835" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-861-282-26-0">
+            <rect x="284" y="861" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-887-282-26-0">
+            <rect x="284" y="887" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-913-282-26-0">
+            <rect x="284" y="913" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-939-282-26-0">
+            <rect x="284" y="939" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-284-965-282-40-0">
+            <rect x="284" y="965" width="282" height="40"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 710 26 L 710 0 L 1070 0 L 1070 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="all"/>
+        <path d="M 710 26 L 710 704 L 1070 704 L 1070 26" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 710 26 L 1070 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="889.5" y="17.5">LogEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-31-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="43.5">+ timeStamp:DateTime</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-57-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="69.5">+ selectedDevice: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-83-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="95.5">+ weekend: Boolean</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-109-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="121.5">+ timeOfDay:Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-135-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="147.5">+ timeOfDayScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-161-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="173.5">+ dayOfYear: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-187-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="199.5">+ dayOfYearScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-213-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="225.5">+ realTemperature: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-239-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="251.5">+ realTemperatureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-265-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="277.5">+ feltTemperature: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-291-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="303.5">+ feltTemperatureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-317-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="329.5">+ pressure: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-343-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="355.5">+ pressureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-369-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="381.5">+ humidity: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-395-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="407.5">+ humidityScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-421-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="433.5">+ windSpeed: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-447-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="459.5">+ windSpeedScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-473-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="485.5">+ cloudiness: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-499-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="511.5">+ cloudinessScaled: Double </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-525-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="537.5">+ weather: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-551-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="563.5">+ weatherEncoding: Array&lt;Double&gt;</text>
+        </g>
+        <path d="M 710 573 L 1070 573" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-579-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="591.5">+ setWeather(weatherData:WeatherDataEntry): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-605-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="617.5">+ copyDataToScaled(): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-631-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="643.5">+ setScaledFeatures(features: HashMap&lt;Feature,Double&gt;): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-657-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="669.5">+ getFeatures() : ArrayList&lt;Double&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-714-683-352-26-0)"
+           font-size="12px">
+            <text x="715.5" y="695.5">+getCSVString(separator: Char): String</text>
+        </g>
+        <path d="M 0 26 L 0 0 L 600 0 L 600 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 26 L 0 600 L 600 600 L 600 26" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 26 L 600 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="299.5" y="17.5">Log</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="43.5">+ size: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-57-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="69.5">+ deviceCount: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-83-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="95.5">- logEntries: ArrayList&lt;LogEntry&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-109-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="121.5">- uniqueDevices: HashSet&lt;String&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-135-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="147.5">- inMapping: HashMap&lt;String,Int&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-161-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="173.5">- outMapping: HashMap&lt;Int,String&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-187-592-26-0)"
+           font-size="12px">
+            <text x="5.5" y="199.5">- minMaxValues: HashMap&lt;Feature, Pair&lt;Double,Double&gt;&gt;</text>
+        </g>
+        <path d="M 0 209 L 600 209" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-215-592-390-0)"
+           font-size="12px">
+            <text x="5.5" y="227.5">+insertEntry(timeStamp: joda.time.DateTime, deviceName: String)</text>
+            <text x="5.5" y="241.5">+get(i:Int): LogEntry</text>
+            <text x="5.5" y="255.5">+setWeatherInformation(unfilteredWeatherData: List&lt;WeatherDataEntry&gt;)</text>
+            <text x="5.5" y="269.5">+sortByTimestamp(void): void </text>
+            <text x="5.5" y="283.5">+standardizeLog(void): void </text>
+            <text x="5.5" y="297.5">+getEntries(void): ArrayList&lt;LogEntry&gt;</text>
+            <text x="5.5" y="311.5">+setWeatherLabels(void):void</text>
+            <text x="5.5" y="325.5">+getTimestampMinMax(void): Pair&lt;Long, Long&gt;</text>
+            <text x="5.5" y="339.5">+calculateStatistics(void): Statistics</text>
+            <text x="5.5" y="353.5">+scaleLog(void):void</text>
+            <text x="5.5" y="367.5">+standardizeLog(void)void</text>
+            <text x="5.5" y="381.5">+getEntries(void): ArrayList&lt;LogEntry&gt;</text>
+            <text x="5.5" y="395.5">+getOutMapping(device: Int):String</text>
+            <text x="5.5" y="409.5">+writeCSV(path: String, separator: Char):void</text>
+            <text x="5.5" y="423.5">+get2DTrainData(length: Int, splitRatio: Double): DataSet</text>
+            <text x="5.5" y="437.5">+get2DTestData(length: Int, splitRatio: Double): DataSet</text>
+            <text x="5.5" y="451.5">+get3DTrainCompleteLog(timestampModel: Boolean): DataSet</text>
+            <text x="5.5" y="465.5">+get3DTrainData(length: Int, splitRatio: Double , timestampModel: Boolean ):
+                DataSet 
+            </text>
+            <text x="5.5" y="479.5">+get3DTrainData(length: Int, splitRatio: Double, timestampModel: Boolean): DataSet
+            </text>
+            <text x="5.5" y="493.5">-getScalableFeatures(entry: LogEntry): HashMap&lt;Feature, Double&gt;</text>
+            <text x="5.5" y="507.5">-getStandardDeviation(means: HashMap&lt;Features, Double&gt;): HashMap&lt;Feature,
+                Double&gt;
+            </text>
+            <text x="5.5" y="521.5">-getNewMinMaxPair(currentValue: Double, feature: Feature):
+                Pair&lt;Double,Double&gt;
+            </text>
+            <text x="5.5" y="535.5">-filterWeatherByTimeFrame(weatherData: List&lt;WeatherDataEntry&gt;):List&lt;Pair&lt;DateTime,
+                WeatherDataEntry&gt;&gt;
+            </text>
+            <text x="5.5" y="549.5">-getMinMax(void): void</text>
+            <text x="5.5" y="563.5">-getMean(void): HashMap&lt;Feature, Double&gt;</text>
+            <text x="5.5" y="577.5">-get2DNDArray(length: Int): DataSet</text>
+            <text x="5.5" y="591.5">-get3DNDArray(length: Int, timestampModel: Boolean ): DataSet</text>
+        </g>
+        <path d="M 890 704 L 890 782.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"
+              pointer-events="none"/>
+        <path d="M 886.5 776.88 L 890 783.88 L 893.5 776.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 795 811 L 795 785 L 985 785 L 985 811" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 795 811 L 795 935 L 985 935 L 985 811" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 795 811 L 985 811" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="889.5" y="802.5">Enum Class Feature</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-799-816-182-124-0)"
+           font-size="12px">
+            <text x="800.5" y="828.5">+ [TIME_OF_DAY,</text>
+            <text x="800.5" y="842.5">TIME_OF_YEAR,</text>
+            <text x="800.5" y="856.5">REAL_TEMPERATURE,</text>
+            <text x="800.5" y="870.5">FELT_TEMPERATURE,</text>
+            <text x="800.5" y="884.5">CLOUDINESS_TEMPERATURE,</text>
+            <text x="800.5" y="898.5">HUMIDITY,</text>
+            <text x="800.5" y="912.5">PRESSURE,</text>
+            <text x="800.5" y="926.5">WIND_SPEED]</text>
+        </g>
+        <path d="M 600 300 L 655 300 L 655 351 L 707.76 351" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 701.88 354.5 L 708.88 351 L 701.88 347.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 280 746 L 280 720 L 570 720 L 570 746" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 280 746 L 280 1000 L 570 1000 L 570 746" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 280 746 L 570 746" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="424.5" y="737.5">Cluster</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-751-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="763.5">+ startingEntry: LogEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-777-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="789.5">+ logEntries: ArrayList&lt;LogEntry&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-803-282-24-0)"
+           font-size="12px">
+            <text x="285.5" y="815.5">- centroid: ArrayList&lt;Double&gt;</text>
+        </g>
+        <path d="M 280 826 L 570 826" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-835-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="847.5">+ removeEntryFromCluster(logEntry: LogEntry)</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-861-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="873.5">+ distanceToCentroid(otherEntry: LogEntry): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-887-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="899.5">+ distanceToCentroid(otherEntry: ArrayList&lt;Double&gt;): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-913-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="925.5">+ calculateNewCentroid(): void </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-939-282-26-0)"
+           font-size="12px">
+            <text x="285.5" y="951.5">+ calculateClusterVariance(): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-284-965-282-40-0)"
+           font-size="12px">
+            <text x="285.5" y="977.5">- padFeatures(centroidFeatures: ArrayList&lt;Double&gt;</text>
+            <text x="285.5" y="991.5">, otherEntryFeatures: ArrayList&lt;Double&gt;)</text>
+        </g>
+        <path d="M 570 728.96 L 640 729 L 640 613 L 707.76 613" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 701.88 616.5 L 708.88 613 L 701.88 609.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+    </g>
+</svg>

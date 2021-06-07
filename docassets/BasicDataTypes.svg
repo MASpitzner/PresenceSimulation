@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="811px"
+     height="2723px" viewBox="-0.5 -0.5 811 2723"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-06-06T19:42:26.640Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36&quot; etag=&quot;bYqfM5zx-iUit3Wjzvgr&quot; version=&quot;14.7.6&quot; type=&quot;device&quot; pages=&quot;5&quot;&gt;&lt;diagram id=&quot;5XIUFK7bWAquXp2aC9dH&quot; name=&quot;ArchitecturalOverview&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;nB6-4J1926zRkMsSpvzG&quot; name=&quot;Basic Data Types&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;e51oMcqnRoEyqg32LjpK&quot; name=&quot;TypeEnumClasses&quot;&gt;7Vhbc6owEP41PPYMBND2UZFeptI6wqmnT04ORMk0ECbEW3/9WSCKt46lZ/TJGWbcfNkkZvfbzxXNdJLlg8BZ7PGIMA3p0VIzexpChoWQVjx6tKqQG8tUyFTQSHnVgE8/iQJ1hc5oRPIdR8k5kzTbBUOepiSUOxgWgi923Sac7Z6a4Sk5APwQs0N0RCMZV+gtatf4I6HTeH2y0bqrZhK8dlY3yWMc8cUWZLqa6QjOZWUlS4ewInrruDw853+iZEkR67TD5P39zh7f3FSb3TdZsrmCIKn88dbzFz8e4adhS/9k4WgkJquMqyX6HLOZipebzhJAHIbzHD77fDoQfA45FMEqg0RWoZCrdXzzBU0YTmHUnfBU+mrGgDFmdJqCHcLXJgKAORGSQmo6akLyDNAwpizq4xWfFZfLJQ4/1qNuzAX9hG0xU3vCtJCKZai14+EXKwHWARUkB5/BOmLGHuTh5Y5jH+dSASFnDGc5/bu5RoLFlKZdLiVPlJOKGlyHLPdodiJHxoY4UHKEJ0SKFaxTu6C2Ip+qNsNsqQwtau6itsLiLd7aCsOqXKabvWtKgKFY0YAhxgFDNAT31zW76706z+PB8PXtqecONQT7668D9+Wx061Ru3fAGIiZLDMp+AdxOONAjV7KKwpRxvagNYsYmcgvOZRnOKTptF/69KwaGaoQFRCHtRNWlnBMo4ikRf65xBJXyS4ym3GayjKGdhceiKqj/7LLazgwNuoxPIW7kA5P4S6YlnknwKQFKdj0PZJ8XZWHJFGkANp/ixLIOhMl0CnRcOdFjRW/JVfNOL9moD3NsKxDzTAvqhnmCc1w39yXYOy99tx+JRves1cZzsby+gNl9f3AU6b71ulfJeUnkoKaSspRxpxNUqxTkjIi0I4R0YPIXvuRy2mLZe1qC7o9oi3WJbXFbtyPjEduJ3h0h2OvM7g2Jv+lIlZjFTnGjbOpSOuUigQ0gRDgJLs2J5cREGP/D42NDgXEumhz0j4hIMGT5/pBxxtsNyi/A1+1IION5dRmcL8xi25lM7j2Kz9VmlZTpTlKorMpzd0BiQoxKTK+JThHxEUlPpZJXf/NOPCl9iSQz+KY7iKmkviQ++LMhcBZmeNZGpFIZbjUtUpyTHTO9sEw9toH/Uj1660jiWte/TCs38WVc1uvNE33Hw==&lt;/diagram&gt;&lt;diagram id=&quot;ym52ez22vS9wF38CCcro&quot; name=&quot;ModelInterfaces&quot;&gt;7Znbkto4EIafxlWZi2z5gIG55DRJdslmErYqydWWsBtbO7LEyjLgefptYRkDNgQ2DJMLqqjCardk+e9P7ZZteYNk9U6SefxRhMAs1w5Xlje0XNdpua6lf3aYF5aO1ykMkaShcaoME/oMxmgba0ZDSHcclRBM0fmuMRCcQ6B2bERKsdx1mwm2e9U5iaBmmASE1a1faajiwtp1O5X9PdAoLq/stO+LMwkpnc2dpDEJxXLL5I0sbyCFUMVRshoA0+KVusSPI/DDD39kfBzJ7637L5/G798Wgz2c02VzCxK4+t9D+8Pf466d0/HDn73Pky4ffVN/v3XMzS4Iy4xgH7gCOSMBBg3ltgae1R9IPFyjgaq69nOG7TZJ5pbX59NU/6F1TKbA0pyrGFIwiqm8DIOCFU69H6uEocHBw1RJ8QQDwYRECxccPfszytieiTAacWwGoCeGhgVIRTHAPXMioWGoL9NfxlTBZI5TR+sScUabFBkPQUtg6+EFVwZRt1W2zSRPVdn46VnAaosxo/o7EAkomaOLWTFOu+ixbMAv3kavZag3xEebkaqo4oEJ7DlB7taCXItPhELNf1KBzSIm03JY+6gyvtOgTLuujFeuyYtLYzco02ZqTXTxT8vlgIbInDD/9kQRBbOMmay5J2m6pAkjBdY7nJ3AtBIa3iCmLByTXGRaiFSR4Kls9WMh6TMOS6r1ROQG7vaOx0T3NEtAQoo+j2WMnT3TR7LacRyTVBlDIBgj85RON7eREBlR3hdKicQ41RE6juSPV1F51nd+84tOhh7Xtmv4+K7XsLA8+6VWVgM+Goy5hJAGagL/ZsADeMNENOL6gl5PZ8qy5eJVbZ4lU5CfZl8JshCOFihcelc49qQk+ZhiBAyMmJsr/Joz7LlplcFMHQQwxWRKeTRe+wxbleWLUVebBPadsfWTMcZUDHyddnFpmDSgsZgLXEdr9f0+/jAeAxvD6Q+1Bn7fqdr40+5SDQTHeyF0zREghktI1emE2ScDVuJUT9ONNJV+F4fJPQ8mqquqRkoqvkpUbpz9Opz57itz5p3O2SZf3RD6lRDqdF8ZodYBhLBmAPVYcERRlDeGjoXA4Qau1bNvLFyYBcduvTIM/k/V0Lfa+Qq1871XY6TVshsqZf+lIGkfyBgzqg4XNPl2RaP2ShoS5AGjQdGlLwQDwovHVMYpPsKGsKBBOSQ+je5uqec4V/7JWB2umBuperHM0zkO1V710gTMDYpLQ9FQ3l4XiqaXXVvl7YG9+N0mT9yIuDARDdXqdYmov+NuJOKHG2rtYJ4/N1xeDJemgva6vDhNb4X3gNlkj9sT5OIAePX3ulcGwKkFFcIIyl0IahKLSHDCRpV170tT5TMWOoLrmv8fUCo32wySKWHtfBCDFVXfdHfUv2h9N4Pp4+Fqu5GXDR729EdSbE6ZCJ7+iikvzA9U3/PaKSRpvJ6Yc/4mIxWZDOCIo4kLbqAiOAEDreNRCCQwouhi9+ttU4RN10cNdLXVaXkm2+9/JCiHKCZqeu1xsplGEzrYrL71Fu7VF3Nv9B8=&lt;/diagram&gt;&lt;diagram id=&quot;Yp8ym6LHPTuAtNeK27OV&quot; name=&quot;TimestampGeneratorIntefaces&quot;&gt;7Zttb+I4EIB/DdL2w57ywuvHAm23K1bqHT3t3X0zZEh8dWzWcQr01+84cQghgUK7KadTJKTGk7Fjjx+PJxO35Y7C9Z0ky+Cb8IC1HMtbt9xxy3HstuO09M/yNqmk5/ZSgS+pZ5RywZS+gBFaRhpTD6KCohKCKbosCueCc5irgoxIKVZFtYVgxacuiQ8lwXROWFn6nXoqSKV9p5fLvwD1g+zJdneQ3glJpmxGEgXEE6sdkXvTckdSCJVehesRMG28zC6/f7HWfw6eXpazh+CrVDcPz97j57Sx23OqbIcggas3N/1dbYa+xW/v+y99tfravefTkaliPRMWG3vdcwVyQeY4Z2jt1shtDUcSLxMy0KiO9RLr8j9AVaQgXAL7PN1wFUAExk5qkxlfwRo7PAxUyFBg42WkpHiCkWBCooQLjprDBWVsT0QY9TkW56D7g4JnkIritF6bGyH1PP2Y4SqgCqZL7DFKVwgxyqSIuQd64JZuXnBlwHTaWdl08lTbGj3dC1jvkGVsfQciBCU3qGLWiZstgFUFdcEucW0DuwHd3zaVTyZemPk8Y27t0tyW5sdHQy3faYHt0iWzrFmr2jKmlvVbJ62XWardqbBUt2yptt2tyVROham6TKOb/aXZskCBb26Yv9ZUEQWLmD3SECJFwuUdcJBEIc/7Bo9WNGQkhb5A4QnEK6HRngeUeROyEbG2Cj5u/pSVhoGQ9AWbJflqI3KLfregMdU1zQKREKHOQ0aAvSf6RtYFxQmJlBHMBWNkGdHZdhghkT7lQ6GUCI1SGbCjvL6+xMzdtlvkKMNjhyPX7me07ZLkdKyaSHIrSBq2Rk7r2vJTKmAC3FfBFH7EwOfwiZEZsAnVJr3GmtdSkk1SNOShQ85Yu0pUcJTaubjDkupEcD/nstoXn+uAGSzUQRgjdLuU+5NEZ9zOJX8YW2uRwLoLluycATpt4ImDxjVjHIYeylLgAkvmojPEH87OSLuJDnZ8hGU7L+NPq0s1EhzHQmjCFCCSK4jU6bQ5J9Nm8HJOpsuty6O3K+FyDpIl/BuuJNXhl0ariEpyb9Og9R9Aq1sOFQ6g1a7Lb3XORsswJfyrA46rQaZGZGzrZGbcupjpvsLMNh6qY68bmwc0hNVFmHt5r9Q7HE2dw9l7Nr6Gs7o5612es/75nqy0ATYIXS40r8i1fDRCg3elEJrUwcemDuyBWyKmnbFRyBR06wLGLudeU6czI1HucFInk3uQxnMc42BwMgeHX+oPYFAXBVVZ2r2E0RaG9CXskwfPdI5LCWOcFA8Mm6+y3Ui/czWQ/FJIOs6lIanKT78CyX7yp+L1vCoQbgiqg6Be/9IEnZCXriBoP8fTwFEDHLbVvjQdryWWt2gc23uaIKUuQCoyMR8MyGvp4RyQt+47DT110dO5eIxbnSiu3nwygDbbvScpNZTUTEn/4kHukWRvJSX7wUnDRl0vydbFw9dDCVo0A48WQobjGPmggj+KnJEQ55ZGeeTacFIzJ+7FA9lBaVLB8yHLlaJNAuELTthNLt07LJjrTISewSQz+S8otTHJUBIr0SqcaYQ1VX/p6mj/tPS3aUxfj9e7hU1W4N61Pt2KxRkT86fHgPJUfEv1mBMlj0RB0jH77FRoJGI5hyN6xt1r8xydWwkMF9bzrlL1xJmqD5rTPNHqZqdntwk3p9iEItIHZWrtTf+2G+842Wf9r4jYOcpqO3UTYn8MIp1LI1KVgj39080tTdx08wWn9bGHP/tFaly7fIr4wDfAfl2fdJzqPK1jLag6/8VYb+yOFXP6I4ZxknaJdlIuTfBy/Bvy2Qf2Tz/f6dR1vtOpztIiPzHPKdp572kg+MUQdE4+SPCGU3VYzP9bKN298v+5cm9+Ag==&lt;/diagram&gt;&lt;/mxfile&gt;"
+     style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-454-1215-352-26-0">
+            <rect x="454" y="1215" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1241-352-26-0">
+            <rect x="454" y="1241" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1267-352-26-0">
+            <rect x="454" y="1267" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1293-352-26-0">
+            <rect x="454" y="1293" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1319-352-26-0">
+            <rect x="454" y="1319" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1345-352-26-0">
+            <rect x="454" y="1345" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1371-352-26-0">
+            <rect x="454" y="1371" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1397-352-26-0">
+            <rect x="454" y="1397" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1423-352-26-0">
+            <rect x="454" y="1423" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1449-352-26-0">
+            <rect x="454" y="1449" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1475-352-26-0">
+            <rect x="454" y="1475" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1501-352-26-0">
+            <rect x="454" y="1501" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1527-352-26-0">
+            <rect x="454" y="1527" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1553-352-26-0">
+            <rect x="454" y="1553" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1579-352-26-0">
+            <rect x="454" y="1579" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1605-352-26-0">
+            <rect x="454" y="1605" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1631-352-26-0">
+            <rect x="454" y="1631" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1657-352-26-0">
+            <rect x="454" y="1657" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1683-352-26-0">
+            <rect x="454" y="1683" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1709-352-26-0">
+            <rect x="454" y="1709" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1735-352-26-0">
+            <rect x="454" y="1735" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1763-352-26-0">
+            <rect x="454" y="1763" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1789-352-26-0">
+            <rect x="454" y="1789" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1815-352-26-0">
+            <rect x="454" y="1815" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-454-1841-352-26-0">
+            <rect x="454" y="1841" width="352" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1215-402-26-0">
+            <rect x="4" y="1215" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1241-402-26-0">
+            <rect x="4" y="1241" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1267-402-26-0">
+            <rect x="4" y="1267" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1293-402-26-0">
+            <rect x="4" y="1293" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1319-402-26-0">
+            <rect x="4" y="1319" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1345-402-26-0">
+            <rect x="4" y="1345" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1371-402-26-0">
+            <rect x="4" y="1371" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1399-402-26-0">
+            <rect x="4" y="1399" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1425-402-26-0">
+            <rect x="4" y="1425" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1451-402-26-0">
+            <rect x="4" y="1451" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1477-402-26-0">
+            <rect x="4" y="1477" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1503-402-30-0">
+            <rect x="4" y="1503" width="402" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1533-402-30-0">
+            <rect x="4" y="1533" width="402" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1563-402-26-0">
+            <rect x="4" y="1563" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1589-402-26-0">
+            <rect x="4" y="1589" width="402" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1615-402-38-0">
+            <rect x="4" y="1615" width="402" height="38"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1653-402-40-0">
+            <rect x="4" y="1653" width="402" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1693-402-36-0">
+            <rect x="4" y="1693" width="402" height="36"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-1729-402-30-0">
+            <rect x="4" y="1729" width="402" height="30"/>
+        </clipPath>
+        <clipPath id="mx-clip-539-1935-182-124-0">
+            <rect x="539" y="1935" width="182" height="124"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-295-282-26-0">
+            <rect x="34" y="295" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-321-282-26-0">
+            <rect x="34" y="321" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-347-282-26-0">
+            <rect x="34" y="347" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-373-282-24-0">
+            <rect x="34" y="373" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-397-282-26-0">
+            <rect x="34" y="397" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-423-282-24-0">
+            <rect x="34" y="423" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-447-282-26-0">
+            <rect x="34" y="447" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-473-282-26-0">
+            <rect x="34" y="473" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-499-282-26-0">
+            <rect x="34" y="499" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-525-282-24-0">
+            <rect x="34" y="525" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-549-282-26-0">
+            <rect x="34" y="549" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-575-282-24-0">
+            <rect x="34" y="575" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-34-607-282-26-0">
+            <rect x="34" y="607" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-95-282-26-0">
+            <rect x="434" y="95" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-121-282-26-0">
+            <rect x="434" y="121" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-147-282-26-0">
+            <rect x="434" y="147" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-173-282-24-0">
+            <rect x="434" y="173" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-197-282-26-0">
+            <rect x="434" y="197" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-223-282-24-0">
+            <rect x="434" y="223" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-255-282-26-0">
+            <rect x="434" y="255" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-335-282-26-0">
+            <rect x="434" y="335" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-361-282-26-0">
+            <rect x="434" y="361" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-695-282-26-0">
+            <rect x="434" y="695" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-729-282-26-0">
+            <rect x="434" y="729" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-455-282-26-0">
+            <rect x="434" y="455" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-481-282-26-0">
+            <rect x="434" y="481" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-575-282-26-0">
+            <rect x="434" y="575" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-601-282-26-0">
+            <rect x="434" y="601" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-815-282-26-0">
+            <rect x="434" y="815" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-841-282-26-0">
+            <rect x="434" y="841" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-867-282-26-0">
+            <rect x="434" y="867" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-434-893-282-24-0">
+            <rect x="434" y="893" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-1935-282-26-0">
+            <rect x="24" y="1935" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-1961-282-26-0">
+            <rect x="24" y="1961" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-1987-282-24-0">
+            <rect x="24" y="1987" width="282" height="24"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2019-282-26-0">
+            <rect x="24" y="2019" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2045-282-26-0">
+            <rect x="24" y="2045" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2071-282-26-0">
+            <rect x="24" y="2071" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2097-282-26-0">
+            <rect x="24" y="2097" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2123-282-26-0">
+            <rect x="24" y="2123" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-24-2149-282-40-0">
+            <rect x="24" y="2149" width="282" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-263-2495-282-230-0">
+            <rect x="263" y="2495" width="282" height="230"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 450 1210 L 450 1184 L 810 1184 L 810 1210" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="all"/>
+        <path d="M 450 1210 L 450 1862 L 810 1862 L 810 1210" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 450 1210 L 810 1210" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="629.5" y="1201.5">LogEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1215-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1227.5">+ timeStamp:joda.time.DateTime</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1241-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1253.5">+ selectedDevice: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1267-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1279.5">+ weekend: Boolean</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1293-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1305.5">+ timeOfDay:Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1319-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1331.5">+ timeOfDayScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1345-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1357.5">+ dayOfYear: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1371-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1383.5">+ dayOfYearScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1397-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1409.5">+ realTemperature: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1423-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1435.5">+ realTemperatureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1449-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1461.5">+ feltTemperature: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1475-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1487.5">+ feltTemperatureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1501-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1513.5">+ pressure: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1527-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1539.5">+ pressureScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1553-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1565.5">+ humidity: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1579-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1591.5">+ humidityScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1605-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1617.5">+ windSpeed: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1631-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1643.5">+ windSpeedScaled: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1657-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1669.5">+ cloudiness: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1683-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1695.5">+ cloudinessScaled: Double </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1709-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1721.5">+ weather: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1735-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1747.5">+ weatherEncoding: Array&lt;Double&gt;</text>
+        </g>
+        <path d="M 450 1757 L 810 1757" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1763-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1775.5">+ setWeather(weatherData:WeatherDataEntry): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1789-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1801.5">+ copyDataToScaled(): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1815-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1827.5">+ setScaledFeatures(features: HashMap&lt;Feature,Double&gt;): void</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-454-1841-352-26-0)"
+           font-size="12px">
+            <text x="455.5" y="1853.5">+ getFeatures() : ArrayList&lt;Double&gt;</text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
+                               height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 798px; height: 1px; padding-top: 14px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 24px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; font-weight: bold; white-space: normal; word-wrap: normal; ">
+                                Benutzerdefinierte Datentypen
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="400" y="21" fill="#000000" font-family="Helvetica" font-size="24px" text-anchor="middle"
+                      font-weight="bold">Benutzerdefinierte Datentypen
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 1210 L 0 1184 L 410 1184 L 410 1210" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 1210 L 0 1754 L 410 1754 L 410 1210" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 1210 L 410 1210" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="204.5" y="1201.5">Log</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1215-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1227.5">+ size: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1241-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1253.5">+ deviceCount: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1267-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1279.5">- logEntries: ArrayList&lt;LogEntry&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1293-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1305.5">- uniqueDevices: HashSet&lt;String&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1319-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1331.5">- inMapping: HashMap&lt;String,Int&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1345-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1357.5">- outMapping: HashMap&lt;Int,String&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1371-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1383.5">- minMaxValues: HashMap&lt;Feature, Pair&lt;Double,Double&gt;&gt;</text>
+        </g>
+        <path d="M 0 1393 L 410 1393" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1399-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1411.5">+ insertEntry(timeStamp: joda.time.DateTime, deviceName: String)</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1425-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1437.5">+ get(i:Int): LogEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1451-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1463.5">+setWeatherInformation(unfilteredWeatherData: List&lt;WeatherDataEntry&gt;)</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1477-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1489.5">+ sortByTimestamp(): void </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1503-402-30-0)"
+           font-size="12px">
+            <text x="5.5" y="1515.5">+ getEntries(): ArrayList&lt;LogEntry&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1533-402-30-0)"
+           font-size="12px">
+            <text x="5.5" y="1545.5">+ standardizeLog(): void </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1563-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1575.5">+ calculateStatistics(): Statistics</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1589-402-26-0)"
+           font-size="12px">
+            <text x="5.5" y="1601.5">- getScalableFeatures(entry: LogEntry): HashMap&lt;Feature, Double&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1615-402-38-0)"
+           font-size="12px">
+            <text x="5.5" y="1627.5">- getStandardDeviation(means: HashMap&lt;Features, Double&gt;)</text>
+            <text x="5.5" y="1641.5">: HashMap&lt;Feature, Double&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1653-402-40-0)"
+           font-size="12px">
+            <text x="5.5" y="1665.5">- getNewMinMaxPair(currentValue: Double, feature: Feature)</text>
+            <text x="5.5" y="1679.5">: Pair&lt;Double,Double&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1693-402-36-0)"
+           font-size="12px">
+            <text x="5.5" y="1705.5">- filterWeatherByTimeFrame(weatherData: List&lt;WeatherDataEntry&gt;):</text>
+            <text x="5.5" y="1719.5">List&lt;Pair&lt;joda.time.DateTime, WeatherDataEntry&gt;&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-1729-402-30-0)"
+           font-size="12px">
+            <text x="5.5" y="1741.5">- getMinMax(): void</text>
+        </g>
+        <path d="M 630 1862 L 630 1901.76" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3"
+              pointer-events="none"/>
+        <path d="M 626.5 1895.88 L 630 1902.88 L 633.5 1895.88" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 535 1930 L 535 1904 L 725 1904 L 725 1930" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 535 1930 L 535 2054 L 725 2054 L 725 1930" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 535 1930 L 725 1930" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="629.5" y="1921.5">Enum Class Feature</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-539-1935-182-124-0)"
+           font-size="12px">
+            <text x="540.5" y="1947.5">+ [TIME_OF_DAY,</text>
+            <text x="540.5" y="1961.5">TIME_OF_YEAR,</text>
+            <text x="540.5" y="1975.5">REAL_TEMPERATURE,</text>
+            <text x="540.5" y="1989.5">FELT_TEMPERATURE,</text>
+            <text x="540.5" y="2003.5">CLOUDINESS_TEMPERATURE,</text>
+            <text x="540.5" y="2017.5">HUMIDITY,</text>
+            <text x="540.5" y="2031.5">PRESSURE,</text>
+            <text x="540.5" y="2045.5">WIND_SPEED]</text>
+        </g>
+        <path d="M 30 290 L 30 264 L 320 264 L 320 290" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 30 290 L 30 628 L 320 628 L 320 290" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 30 290 L 320 290" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="174.5" y="281.5">WeatherDataEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-295-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="307.5">+ city: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-321-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="333.5">+ lat: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-347-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="359.5">+lon: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-373-282-24-0)"
+           font-size="12px">
+            <text x="35.5" y="385.5">+ phisicalWeatherData: PhysicalWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-397-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="409.5">+ wind: Wind</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-423-282-24-0)"
+           font-size="12px">
+            <text x="35.5" y="435.5">+ rain: Rain</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-447-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="459.5">+ snow: Snow</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-473-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="485.5">+clouds: Clouds</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-499-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="511.5">+ basicWeatherData: List&lt;BasicWeatherData&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-525-282-24-0)"
+           font-size="12px">
+            <text x="35.5" y="537.5">+ dayTimeInMilliSec: Long</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-549-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="561.5">+ dayTimeIso: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-575-282-24-0)"
+           font-size="12px">
+            <text x="35.5" y="587.5">+ timeZone: Int</text>
+        </g>
+        <path d="M 30 598 L 320 598" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-34-607-282-26-0)"
+           font-size="12px">
+            <text x="35.5" y="619.5">+ transform(): void </text>
+        </g>
+        <path d="M 430 90 L 430 64 L 720 64 L 720 90" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 90 L 430 276 L 720 276 L 720 90" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 90 L 720 90" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="81.5">PhysicalWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-95-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="107.5">+ temp: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-121-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="133.5">+ tempMin: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-147-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="159.5">+ temp_Max: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-173-282-24-0)"
+           font-size="12px">
+            <text x="435.5" y="185.5">+ feels_like: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-197-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="209.5">+ pressure: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-223-282-24-0)"
+           font-size="12px">
+            <text x="435.5" y="235.5">+ humidity: Double</text>
+        </g>
+        <path d="M 430 246 L 720 246" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-255-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="267.5">+ transform(): void </text>
+        </g>
+        <path d="M 430 330 L 430 304 L 720 304 L 720 330" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 330 L 430 382 L 720 382 L 720 330" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 330 L 720 330" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="321.5">Wind</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-335-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="347.5">+ speed: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-361-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="373.5">+ deg: Int</text>
+        </g>
+        <path d="M 430 690 L 430 664 L 720 664 L 720 690" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 690 L 430 750 L 720 750 L 720 690" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 690 L 720 690" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="681.5">Clouds</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-695-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="707.5">+ all: Double</text>
+        </g>
+        <path d="M 430 720 L 720 720" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-729-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="741.5">+ transform(): void </text>
+        </g>
+        <path d="M 430 450 L 430 424 L 720 424 L 720 450" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 450 L 430 502 L 720 502 L 720 450" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 450 L 720 450" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="441.5">Rain</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-455-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="467.5">+ threeHours: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-481-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="493.5">+ oneHour: Double</text>
+        </g>
+        <path d="M 430 570 L 430 544 L 720 544 L 720 570" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 570 L 430 622 L 720 622 L 720 570" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 570 L 720 570" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="561.5">Snow</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-575-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="587.5">+ threeHours: Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-601-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="613.5">+ oneHour: Double</text>
+        </g>
+        <path d="M 430 810 L 430 784 L 720 784 L 720 810" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 810 L 430 912 L 720 912 L 720 810" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 430 810 L 720 810" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="574.5" y="801.5">BasicWeatherData</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-815-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="827.5">+ id: Int</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-841-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="853.5">+ main: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-867-282-26-0)"
+           font-size="12px">
+            <text x="435.5" y="879.5">+ description: String</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-434-893-282-24-0)"
+           font-size="12px">
+            <text x="435.5" y="905.5">+ icon: String </text>
+        </g>
+        <path d="M 320 380 L 375 380 L 375 323.5 L 427.76 323.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.88 327 L 428.88 323.5 L 421.88 320" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 320 481 L 375 481 L 375 443.5 L 427.76 443.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.88 447 L 428.88 443.5 L 421.88 440" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 320 532 L 375 532 L 375 555 L 426.89 555" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.01 558.5 L 428.01 555 L 421.01 551.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 320 582 L 375 582 L 375 737 L 427.76 737" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.88 740.5 L 428.88 737 L 421.88 733.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 320 303 L 375 303 L 375 78 L 427.76 77.99" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.88 81.49 L 428.88 77.99 L 421.88 74.49" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 320 615 L 350 615 L 350 796 L 427.76 796.03" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 421.88 799.53 L 428.88 796.03 L 421.88 792.53" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 410 1459 L 430 1459 L 430 1196.2 L 443.8 1196.2" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 437.92 1199.7 L 444.92 1196.2 L 437.92 1192.7" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 20 1930 L 20 1904 L 310 1904 L 310 1930" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 20 1930 L 20 2184 L 310 2184 L 310 1930" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 20 1930 L 310 1930" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="164.5" y="1921.5">Cluster</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-1935-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="1947.5">+ startingEntry: LogEntry</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-1961-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="1973.5">+ logEntries: ArrayList&lt;LogEntry&gt;</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-1987-282-24-0)"
+           font-size="12px">
+            <text x="25.5" y="1999.5">- centroid: ArrayList&lt;Double&gt;</text>
+        </g>
+        <path d="M 20 2010 L 310 2010" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2019-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="2031.5">+ removeEntryFromCluster(logEntry: LogEntry)</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2045-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="2057.5">+ distanceToCentroid(otherEntry: LogEntry): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2071-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="2083.5">+ distanceToCentroid(otherEntry: ArrayList&lt;Double&gt;): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2097-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="2109.5">+ calculateNewCentroid(): void </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2123-282-26-0)"
+           font-size="12px">
+            <text x="25.5" y="2135.5">+ calculateClusterVariance(): Double</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-24-2149-282-40-0)"
+           font-size="12px">
+            <text x="25.5" y="2161.5">- padFeatures(centroidFeatures: ArrayList&lt;Double&gt;</text>
+            <text x="25.5" y="2175.5">, otherEntryFeatures: ArrayList&lt;Double&gt;)</text>
+        </g>
+        <path d="M 310 1912.96 L 380 1913 L 380 1797 L 447.76 1797" fill="none" stroke="#000000" stroke-miterlimit="10"
+              stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 441.88 1800.5 L 448.88 1797 L 441.88 1793.5" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 259 2490 L 259 2464 L 549 2464 L 549 2490" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 259 2490 L 259 2720 L 549 2720 L 549 2490" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 259 2490 L 549 2490" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="403.5" y="2481.5">Configuration</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-263-2495-282-230-0)"
+           font-size="12px">
+            <text x="264.5" y="2507.5">+logProvider:LogProviderTypes</text>
+            <text x="264.5" y="2521.5">+weatherDataProvider:WeatherDataProviderTypes</text>
+            <text x="264.5" y="2535.5">+eventModelType:EventModelTypes</text>
+            <text x="264.5" y="2549.5">+timestampModelType:TimestampModelTypes</text>
+            <text x="264.5" y="2563.5">+logPath:String</text>
+            <text x="264.5" y="2577.5">+weatherDataPath:String</text>
+            <text x="264.5" y="2591.5">+evaluation:Boolean</text>
+            <text x="264.5" y="2605.5">+evaluationSingle:Boolean</text>
+            <text x="264.5" y="2619.5">+evaluationPath:String</text>
+            <text x="264.5" y="2633.5">+fileOutput:Boolean</text>
+            <text x="264.5" y="2647.5">+outputPath:String</text>
+            <text x="264.5" y="2661.5">+evalIterations:Int</text>
+            <text x="264.5" y="2675.5">+timeEval:Boolean</text>
+            <text x="264.5" y="2689.5">+evalReal:Boolean</text>
+            <text x="264.5" y="2703.5">+numOfEvents:Int</text>
+            <text x="264.5" y="2717.5">+untilTime:DateTime</text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+           target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text>
+        </a>
+    </switch>
+</svg>

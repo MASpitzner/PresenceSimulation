@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="291px" height="260px" viewBox="-0.5 -0.5 291 260"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-06-06T19:58:06.051Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36&quot; version=&quot;14.7.6&quot; etag=&quot;bZyTTyT_Nxv7FCNwNcHM&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;154gQ3GMEbdJD0auvAFP&quot;&gt;lVXbbqMwEP0aXlfBJGn7GEh2t1KqVk2lPnthAKvGg4wJSb9+x2BCSMK2K0WKfWbG9lzOwQui4vBL8zJ/wgSkx2bJwQvWHmPsfj6nP4scO8Sf3zkk0yJx2ADsxCc4cObQWiRQjRwNojSiHIMxKgWxGWFca2zGbinK8a0lz+AK2MVcXqPvIjF5h96zuwH/DSLL+5v95UNnKXjv7DKpcp5gcwYFGy+INKLpVsUhAmmr19eli/s5YT09TIMy3wlgXcCey9rlFqFKRVZrbgQq90hz7DOvGlFIrmgXpqjMzll82nMpMkXrmK4GTcAetBFUtJUzGCwJjXMhky0/Ym0fWBkef/S7MEctPulYLt2ZZNbG9Z8tRx47G0nwjFANFfm89Fn7F9ATP4wct7wyDohRSl5W4s8pjYLrTKgQjcHCObWZdo/wqUOhqxmlB4fJuvunbhIPAAsw+kguPQn6iXAUYPO5m4hmGCj24LD8bJjYYukG2Q1xdjp86DMtXKtvtz24arvHQonZi8Y9UYu6t9oOu7djSWyj+rPAn7X5hw3QJINec8PPYt6v0RuxsLc9sapgjRS2GQEX3kYUQGNQlOcRb1fgRZTNpeXaame0UNn066e9wJano0GwCklfgKspjx1F2xH6yu8f16VCwnNtSsuE28dga/3ixY9EvvYqGo/VI03jVTU3e8uv6Ze+wrRd1cVz2vbr5vG1MkLa5pCRqgvt8lJDiDWm5bbGD4hQIo3OWmEnKkLKC6jXFQmpmVSVquQxlWPb+qznA/LqmGMhpNhUtnKbiyQBZRUBDU1BR3+bRImizW3tLUL6EQGj2Y+Ft6CHR7T3hz39rLs2pJiUCxct84G0pQGrL9+TCXZbJnpZWH5TFILZf4sCbYfvTGs7+1wHm78=&lt;/diagram&gt;&lt;/mxfile&gt;"
+     style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-4-31-282-230-0">
+            <rect x="4" y="31" width="282" height="230"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 290 0 L 290 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="all"/>
+        <path d="M 0 26 L 0 256 L 290 256 L 290 26" fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 0 26 L 290 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle"
+           font-size="12px">
+            <text x="144.5" y="17.5">Configuration</text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-282-230-0)"
+           font-size="12px">
+            <text x="5.5" y="43.5">+logProvider:LogProviderTypes</text>
+            <text x="5.5" y="57.5">+weatherDataProvider:WeatherDataProviderTypes</text>
+            <text x="5.5" y="71.5">+eventModelType:EventModelTypes</text>
+            <text x="5.5" y="85.5">+timestampModelType:TimestampModelTypes</text>
+            <text x="5.5" y="99.5">+logPath:String</text>
+            <text x="5.5" y="113.5">+weatherDataPath:String</text>
+            <text x="5.5" y="127.5">+evaluation:Boolean</text>
+            <text x="5.5" y="141.5">+evaluationSingle:Boolean</text>
+            <text x="5.5" y="155.5">+evaluationPath:String</text>
+            <text x="5.5" y="169.5">+fileOutput:Boolean</text>
+            <text x="5.5" y="183.5">+outputPath:String</text>
+            <text x="5.5" y="197.5">+evalIterations:Int</text>
+            <text x="5.5" y="211.5">+timeEval:Boolean</text>
+            <text x="5.5" y="225.5">+evalReal:Boolean</text>
+            <text x="5.5" y="239.5">+numOfEvents:Int</text>
+            <text x="5.5" y="253.5">+untilTime:DateTime</text>
+        </g>
+    </g>
+</svg>
