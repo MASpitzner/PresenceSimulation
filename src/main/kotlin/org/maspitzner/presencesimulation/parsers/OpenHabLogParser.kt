@@ -23,7 +23,7 @@ class OpenHabLogParser private constructor() {
          * @return A log object consisting of all relevant log information
          * sorted by their timestamp.
          */
-        fun parse(path: String, tokens: ArrayList<String> = ArrayList()): Log {
+        fun parse(path: String, tokens: List<String> = ArrayList()): Log {
             val log = Log()
             try {
 
@@ -45,7 +45,7 @@ class OpenHabLogParser private constructor() {
          *
          * @return The content of the files as list of strings.
          */
-        private fun retrieveLogString(path: String, tokens: ArrayList<String>): ArrayList<String> {
+        private fun retrieveLogString(path: String, tokens: List<String>): ArrayList<String> {
             val log = ArrayList<String>()
             val logFile = File(path)
 
@@ -91,7 +91,7 @@ class OpenHabLogParser private constructor() {
          *
          * @return The name of the enabled or disabled device as a String.
          */
-        private fun getDeviceName(line: String, tokens: ArrayList<String>): String {
+        private fun getDeviceName(line: String, tokens: List<String>): String {
             val lineContent = line.split(" ")
             val name = lineContent.find { currentToken -> tokens.any { currentToken.contains(it) } }.orEmpty()
                 .replace("'", "")

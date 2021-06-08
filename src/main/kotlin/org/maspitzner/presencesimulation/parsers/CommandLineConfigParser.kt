@@ -25,7 +25,6 @@ class CommandLineConfigParser(private val args: Array<String>) {
         val evaluationSingle = if (evaluationRun) extractBooleanParameter("-evalsingle") else false
         val fileOutputRun = extractBooleanParameter("-output")
 
-
         val eventModelType =
             if (evaluationRun && !evalWithSpecificModel("")) EventModelTypes.EVAL else extractEventModelType()
         val timestampModelType =
@@ -45,6 +44,7 @@ class CommandLineConfigParser(private val args: Array<String>) {
         val numOfEvents = parseValue("-events")
         val duration = parseValue("-until")
         val untilTime = DateTime.now().plusHours(duration)
+        val tokenList = extractTokenList("-devices")
         config = Configuration(
             logProviderType,
             weatherDataProviderType,
@@ -61,9 +61,11 @@ class CommandLineConfigParser(private val args: Array<String>) {
             timeEval,
             evalReal,
             if (numOfEvents > 0) numOfEvents else 100,
-            if (untilTime.isAfterNow && duration > 0) untilTime else null
+            if (untilTime.isAfterNow && duration > 0) untilTime else null,
+            tokenList
 
         )
+
 
     }
 
@@ -253,6 +255,10 @@ class CommandLineConfigParser(private val args: Array<String>) {
      */
     private fun parseValue(key: String): Int {
         return extractedArgs[key]?.trim()?.toInt() ?: 0
+    }
+
+    private fun extractTokenList(key: String): List<String> {
+        return extractedArgs[key]?.split(";")?.map { it.toLowerCase().trim() } ?: listOf("decke")
     }
 
 }

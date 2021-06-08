@@ -31,7 +31,7 @@ class Main {
                 //extracts configuration parameters from the command line
                 val config = CommandLineConfigParser(args).config
 
-
+                println(config)
                 //checks whether the current run is an evaluation run or a simulation run
                 if (!config.evaluation) {
                     /*case simulation run:

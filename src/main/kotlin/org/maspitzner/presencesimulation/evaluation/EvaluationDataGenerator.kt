@@ -50,7 +50,7 @@ class EvaluationDataGenerator(private val config: Configuration) {
      */
     fun runGeneration(numberOfLogs: Int, start: Int = 0) {
         if (config.evalReal) {
-            val realLog = OpenHabLogParser.parse(config.logPath, arrayListOf("decke"))
+            val realLog = OpenHabLogParser.parse(config.logPath, config.tokenList)
             realLog.setWeatherInformation(weatherData)
             realLog.setWeatherLabels()
             realLog.scaleLog()

@@ -35,7 +35,8 @@ data class Configuration(
     val timeEval: Boolean,
     val evalReal: Boolean,
     val numOfEvents: Int,
-    val untilTime: DateTime?
+    val untilTime: DateTime?,
+    val tokenList: List<String>
 
 ) {
     /**
@@ -58,7 +59,9 @@ data class Configuration(
             this.append("realEval=${evalReal}\n")
             this.append("timeEval=$timeEval\n")
             this.append("numberOfEvents=${numOfEvents}\n")
-            this.append("untilTime=${untilTime}")
+            this.append("untilTime=${untilTime}\n")
+            this.append("tokens=$tokenList")
+
         }.toString()
     }
 }

@@ -16,6 +16,6 @@ class OpenHABLogProvider(override val config: Configuration) : LogProvider {
      * @return the parsed log-information as Log
      */
     override fun getStaticLog(): Log {
-        return OpenHabLogParser.parse(config.logPath, arrayListOf("decke"))
+        return OpenHabLogParser.parse(config.logPath, config.tokenList)
     }
 }
