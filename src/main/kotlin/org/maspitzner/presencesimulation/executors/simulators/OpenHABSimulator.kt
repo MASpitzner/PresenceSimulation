@@ -115,7 +115,7 @@ class OpenHABSimulator(override val config: Configuration) : Simulator {
     override fun runConsoleSimulation() {
         val log = runSimulation(config.numOfEvents, config.untilTime)
         log.forEach {
-            println("${it.second}: ${it.first}(${this.log.getOutMapping(it.first)})")
+            println("${it.second}: ${it.first} (${this.log.getOutMapping(it.first)})")
         }
     }
 
@@ -129,7 +129,7 @@ class OpenHABSimulator(override val config: Configuration) : Simulator {
         createFileIfNotExists(config.outputPath)
         val stringRep = StringBuilder()
         log.forEach {
-            stringRep.append("${it.second}: ${it.first}(${this.log.getOutMapping(it.first)})")
+            stringRep.append("${it.second}: ${it.first} (${this.log.getOutMapping(it.first)})\n")
         }
         outFile.writeText(stringRep.toString())
     }
